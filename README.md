@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samarth Bhatt
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C Programming Language
+- 🌱 I’m currently learning Python Programming Language
 
 <!---
 S-SamarthBhatt-B/S-SamarthBhatt-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
