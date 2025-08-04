@@ -73,3 +73,6 @@ A creative and interactive website to showcase:
 > *"Build what's never been built. Craft vibes, not just code."*
 
 ---
+
+<img width="1536" height="1024" alt="SB" src="https://github.com/user-attachments/assets/af982063-29da-427e-9562-7161c69dc7e1" />
+
