@@ -59,6 +59,18 @@ A creative and interactive website to showcase:
 
 ---
 
+### 📈 Contribution Visual
+
+<p align="center">
+  <a href="https://skyline.github.com/S-SamarthBhatt-B/2025">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Skyline animation" />
+  </a>
+</p>
+
+> *Click to view your 3D skyline animation*
+
+---
+
 ### 📫 Connect with Me
 
 - 📧 Email: [samarthbhatt029@gmail.com](mailto:samarthbhatt029@gmail.com)  
