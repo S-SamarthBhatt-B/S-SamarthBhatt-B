@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Hi there 👋 I'm Samarth Bhatt
@@ -138,4 +137,3 @@ class SamarthBhatt:
 ### ⚡ *"Code. Learn. Build. Repeat."*
 
 </div>
-````
