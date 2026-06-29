@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-```python
+
 class SamarthBhatt:
 
     education = "B.Tech Computer Science & Blockchain"
@@ -29,7 +29,6 @@ class SamarthBhatt:
     ]
 
     motto = "Learn • Build • Improve"
-```
 
 ---
 
