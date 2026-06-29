@@ -1,90 +1,142 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/S-SamarthBhatt-B" width="150" height="150" style="border-radius: 50%;" alt="Samarth Bhatt Avatar"/>
-</p>
-
+```md
 <h1 align="center">Hi 👋, I'm Samarth Bhatt</h1>
-<h3 align="center">Web & Software Developer</h3>
+<h3 align="center">Data Science Trainee | Python Developer | B.Tech CS & Blockchain Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=S-SamarthBhatt-B&label=Profile%20views&color=0e75b6&style=flat" alt="S-SamarthBhatt-B" />
-</p>
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently building **[VibeCraft](https://github.com/S-SamarthBhatt-B/New-VibeCraft)** — a dynamic digital playground where I create interactive tools, games, and web experiments.
-- 🌱 Exploring **Next.js, backend architecture, automation tools, and security-focused development**.
-- 💬 Always up for a convo about **UI/UX, full-stack dev, open source, and innovative side projects**.
-- ⚡ Fun Fact: I love blending creativity with code to make experiences that *vibe*.
-
----
-
-### 🔧 Tech Stack
-
-**Languages:**  
-`Python` `C` `C++` `JavaScript` `HTML` `CSS`  
-
-**Frameworks & Libraries:**  
-`React` `Next.js` `Node.js`  
-
-**Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `Linux (Kali)`  
-
----
-
-### 🌟 Featured Project
-
-#### 🔗 [VibeCraft](https://github.com/S-SamarthBhatt-B/New-VibeCraft)
-A creative and interactive website to showcase:
-- 🎮 Custom-built games & creative tools
-- 🎵 Music and sound experiments
-- 💡 Knowledge sharing & dev insights
-- 🧪 Built with modern UI/UX design, typewriter & glitch effects, particles.js, and more
-
-> Visit live: [vibecraft.sbs](https://github.com/S-SamarthBhatt-B/vibecraft.sbs)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=S-SamarthBhatt-B&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=S-SamarthBhatt-B&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-SamarthBhatt-B&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📈 Contribution Visual
-
-<p align="center">
-  <a href="https://skyline.github.com/S-SamarthBhatt-B/2025">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Skyline animation" />
+  <a href="https://github.com/S-SamarthBhatt-B">
+    <img src="https://komarev.com/ghpvc/?username=S-SamarthBhatt-B&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
-> *Click to view your 3D skyline animation*
+---
+
+## 👨‍💻 About Me
+
+I'm **Samarth Bhatt**, a B.Tech Computer Science & Blockchain student at **CGC University, Mohali**, with a strong interest in **Data Science, Python, and Web Development**.
+
+I enjoy cleaning messy datasets, discovering meaningful insights, and building practical solutions using Python, Power BI, and Excel. I'm continuously learning new technologies and improving my problem-solving skills through projects and hands-on experience.
+
+- 🌱 Currently learning **Data Science & Blockchain**
+- 📊 Interested in **Data Analytics, Machine Learning, and Business Intelligence**
+- 💻 Building projects using **Python, Power BI, and Web Technologies**
+- 🚀 Always learning and exploring new technologies
 
 ---
 
-### 📫 Connect with Me
+## 🚀 Tech Stack
 
-- 📧 Email: [samarthbhatt029@gmail.com](mailto:samarthbhatt029@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/samarth-bhatt-b333b9281](https://www.linkedin.com/in/samarth-bhatt-b333b9281/)  
-- 💬 Discord: `itzbhatt_29`  
-- 🌐 Join my server: [discord.gg/fc3acxRs89](https://discord.gg/fc3acxRs89)
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+</p>
+
+### 📊 Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Microsoft Excel
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### ⛓️ Blockchain
+
+- Blockchain Fundamentals
+- Smart Contracts
+- Web3 Basics
+- Solidity Basics
+- DApps
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+- Google Colab
+- Jupyter Notebook
 
 ---
 
-### 💬 Personal Motto
+## 📂 Featured Projects
 
-> *"Build what's never been built. Craft vibes, not just code."*
+### 🧠 Mental Health in Tech
+- Data Cleaning using Pandas
+- Exploratory Data Analysis
+- Interactive Excel Dashboard
+- Data Visualization using Matplotlib & Seaborn
 
 ---
 
-<img width="1536" height="1024" alt="SB" src="https://github.com/user-attachments/assets/af982063-29da-427e-9562-7161c69dc7e1" />
+### 🏏 IPL Cricket Analysis
+- Multi-season IPL data analysis
+- Trend discovery using Python
+- Exploratory Data Analysis
 
+---
+
+### 🗳️ US Elections EDA
+- Data preprocessing
+- Statistical analysis
+- Python-based visualizations
+
+---
+
+## 📚 Core Competencies
+
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Problem Solving
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Continuous Learning
+- Team Collaboration
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=S-SamarthBhatt-B&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-SamarthBhatt-B&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=S-SamarthBhatt-B&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** samarthbhatt029@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/samarth-bhatt29
+- 🐙 **GitHub:** https://github.com/S-SamarthBhatt-B
+
+---
+
+<p align="center">
+
+### "Code. Learn. Build. Repeat."
+
+</p>
+```
