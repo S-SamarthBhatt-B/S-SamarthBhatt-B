@@ -1,102 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,50:0F172A,100:2563EB&text=SAMARTH%20BHATT&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20|%20Data%20Science%20|%20Blockchain&descAlignY=60"/>
+# 👋 Hi, I'm Samarth Bhatt
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Initializing+Developer+Profile...;Loading+Python+Modules...;Connecting+to+GitHub...;Welcome+to+my+Digital+Workspace"/>
+### Python Developer • Data Science Enthusiast • Blockchain Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Projects.;Learning+Every+Day.;Python+%7C+Data+Science+%7C+Blockchain.;Welcome+to+my+GitHub!" />
 
 </div>
 
 ---
 
-# ⚡ SYSTEM STATUS
+# 💫 About Me
 
-```yaml
-Status      : ONLINE 🟢
+🎓 B.Tech Computer Science & Blockchain Student
 
-Name        : Samarth Bhatt
+💻 Passionate about building real-world software using Python and modern technologies.
 
-Role        : Data Science Trainee
+📊 Interested in Data Science, Machine Learning, Automation, and Blockchain.
 
-Education   : B.Tech Computer Science & Blockchain
+🌱 Currently improving my skills in
 
-Location    : India 🇮🇳
+- Python
+- Data Science
+- Blockchain
+- Web Development
 
-Focus        :
-              • Python
-              • Data Science
-              • Blockchain
-              • Web Development
+🚀 Goal
 
-Mission     : Build. Learn. Improve.
-```
+> Build projects that solve real-world problems while continuously learning new technologies.
 
 ---
 
-# 🧠 Neural Profile
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Samarth Bhatt"
-
-        self.languages = [
-            "Python",
-            "Java",
-            "C++",
-            "JavaScript"
-        ]
-
-        self.data_science = [
-            "Pandas",
-            "NumPy",
-            "Power BI",
-            "Excel",
-            "EDA"
-        ]
-
-        self.blockchain = [
-            "Blockchain",
-            "Web3",
-            "Solidity Basics"
-        ]
-
-        self.learning = "Every Single Day"
-
-me = Developer()
-```
-
----
-
-# 🛰 Tech Arsenal
+# 🛠 Tech Stack
 
 ### Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
 </p>
-
----
 
 ### Data Science
 
 <p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,powerbi"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
-
----
 
 ### Blockchain
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Blockchain-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Web3-2563EB?style=for-the-badge"/>
 
@@ -104,100 +60,108 @@ me = Developer()
 
 </p>
 
----
-
-### Development Tools
+### Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+# 📌 Featured Projects
 
-<p align="center">
+## 📊 DataCanvas
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=S-SamarthBhatt-B&theme=tokyonight&show_icons=true&hide_border=true"/>
+A web-based data science platform that automatically:
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-SamarthBhatt-B&layout=compact&theme=tokyonight&hide_border=true"/>
+- Cleans datasets
+- Generates visualizations
+- Performs preprocessing
+- Builds interactive dashboards
 
-</p>
+**Tech**
 
-<p align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=S-SamarthBhatt-B&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=S-SamarthBhatt-B&theme=tokyo-night&hide_border=true"/>
-
-</p>
+Python • React • TypeScript • Chart.js
 
 ---
 
-# 🏆 Achievement Matrix
+## 🧠 Mental Health in Tech Analysis
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=S-SamarthBhatt-B&theme=algolia&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🧠 Mental Health in Tech
-```
-✔ Data Cleaning
-✔ Exploratory Data Analysis
-✔ Excel Dashboard
-✔ Python Visualizations
-```
-
-### 🏏 IPL Cricket Analysis
-```
-✔ Trend Analysis
-✔ Data Visualization
-✔ Python
-```
-
-### 🗳 US Elections EDA
-```
-✔ Data Processing
-✔ Insights
-✔ Visual Analytics
-```
+- Data Cleaning
+- Exploratory Data Analysis
+- Excel Dashboard
+- Python Visualizations
 
 ---
 
-# 🌐 Connection Hub
+## 🏏 IPL Cricket Analysis
+
+- Data Visualization
+- Trend Analysis
+- Statistical Insights
+
+---
+
+## 🗳 US Elections Data Analysis
+
+- Data Cleaning
+- Exploratory Analysis
+- Interactive Charts
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=S-SamarthBhatt-B&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-SamarthBhatt-B&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://streak-stats.demolab.com?user=S-SamarthBhatt-B&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Advanced Python
+- Blockchain Development
+- React Ecosystem
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:samarthbhatt029@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/samarth-bhatt29">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/S-SamarthBhatt-B">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:020617,50:0F172A,100:2563EB"/>
+### ⭐ Thanks for visiting my profile!
 
-</p>
+*"Code. Learn. Build. Repeat."*
+
+</div>
