@@ -1,151 +1,30 @@
 <div align="center">
 
-# Samarth Bhatt
-
-### Python Developer • Data Science • Blockchain • Web Development
-
-<p>
-Building practical software, exploring data, and continuously learning modern technologies.
-</p>
-
-<p>
-<a href="https://github.com/S-SamarthBhatt-B">
-<img src="https://img.shields.io/github/followers/S-SamarthBhatt-B?style=for-the-badge&logo=github">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=S-SamarthBhatt-B&style=for-the-badge&color=0e75b6">
-
-</p>
-
-</div>
-
----
-
-# About Me
-
-I'm a Computer Science & Blockchain undergraduate passionate about solving real-world problems with software.
-
-My primary interests include:
-
-- Python Development
-- Data Science & Analytics
-- Blockchain Technology
-- Web Development
-
-I enjoy transforming ideas into projects that are practical, scalable, and user-focused.
-
----
-
-# Tech Stack
-
-### Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
-
-</p>
-
-### Frameworks & Libraries
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy"/>
-
-</p>
-
-### Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-</p>
-
----
-
-# Featured Projects
-
-## 📊 DataCanvas
-
-A web-based data analytics platform that automates:
-
-- Data Cleaning
-- Exploratory Data Analysis
-- Dashboard Creation
-- Interactive Visualizations
-
----
-
-## 🌌 CosmosDesk
-
-An immersive desktop experience powered by Three.js featuring particle systems, gesture interaction, and dynamic animations.
-
----
-
-## 🤖 SurAI *(In Development)*
-
-Building an AI assistant focused on intelligent workflows, modern UI, and productivity.
-
----
-
-## 🏏 IPL Cricket Analysis
-
-Python-based exploratory analysis with statistical insights and visual dashboards.
-
----
-
-# GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=S-SamarthBhatt-B&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-SamarthBhatt-B&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1D4ED8,75:3B82F6,100:38BDF8&text=SAMARTH%20BHATT&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Science%20%7C%20Blockchain%20%7C%20Web%20Development&descSize=20&descAlignY=58"/>
 
 <br>
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub+Profile;Building+Real+World+Projects;Python+%7C+Data+Science+%7C+Blockchain;Always+Learning+Something+New;Turning+Ideas+Into+Reality"/>
 
-<img src="https://streak-stats.demolab.com?user=S-SamarthBhatt-B&theme=github-dark-blue&hide_border=true"/>
+<br><br>
 
-</div>
+<p align="center">
 
----
-
-# Current Focus
-
-- Building **SurAI**
-- Enhancing **DataCanvas**
-- Learning Machine Learning
-- Strengthening Backend Development
-- Exploring Advanced Blockchain Concepts
-
----
-
-# Connect With Me
-
-<div align="center">
-
-<a href="mailto:samarthbhatt029@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/S-SamarthBhatt-B">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 <a href="https://linkedin.com/in/samarth-bhatt29">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
-<a href="https://github.com/S-SamarthBhatt-B">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:samarthbhatt029@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=S-SamarthBhatt-B&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
@@ -153,6 +32,109 @@ Python-based exploratory analysis with statistical insights and visual dashboard
 
 <div align="center">
 
-*"Building software with curiosity, consistency, and continuous improvement."*
+# 💠 Developer Dashboard
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="20%">
+
+🏠
+
+**Home**
+
+</td>
+
+<td align="center" width="20%">
+
+👨‍💻
+
+**About**
+
+</td>
+
+<td align="center" width="20%">
+
+🚀
+
+**Projects**
+
+</td>
+
+<td align="center" width="20%">
+
+📊
+
+**Statistics**
+
+</td>
+
+<td align="center" width="20%">
+
+📬
+
+**Contact**
+
+</td>
+</tr>
+</table>
+
+---
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> Hello, I'm Samarth Bhatt
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  Passionate developer focused on building modern software.   ║
+║                                                              ║
+║  • Python Development                                        ║
+║  • Data Science & Analytics                                  ║
+║  • Blockchain Technology                                     ║
+║  • Interactive Web Applications                              ║
+║                                                              ║
+║  "Learning never stops. Every project teaches something."    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+
+# ⚡ System Status
+
+```yaml
+────────────────────────────────────────────────────────────
+
+Developer : Samarth Bhatt
+
+Role      : Python Developer
+
+Education : B.Tech Computer Science & Blockchain
+
+Location  : India 🇮🇳
+
+Status    : Building Projects
+
+Learning  : Data Science • AI • Blockchain
+
+Mission   : Create software that solves real problems.
+
+────────────────────────────────────────────────────────────
+```
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+
+# 🌌 Philosophy
+
+> *"Great software isn't built in a day. It's crafted through curiosity, consistency, and continuous improvement."*
+
+---
+
+<div align="center">
+
+### ⭐ Scroll down to explore my projects, technologies, and journey.
 
 </div>
