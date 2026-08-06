@@ -1,723 +1,376 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:020617,30:0F172A,65:2563EB,100:38BDF8&text=SAMARTH%20BHATT&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20•%20Data%20Science%20•%20Blockchain%20•%20Web%20Development&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,30:161B22,65:1F6FEB,100:38BDF8&text=SAMARTH%20BHATT&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20•%20Data%20Science%20•%20Blockchain%20•%20Web%20Development&descAlignY=58&descSize=18&fontFamily=JetBrains+Mono"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Building+Real-World+Software;Python+%7C+Data+Science+%7C+Blockchain;Turning+Ideas+Into+Products;Always+Learning%2C+Always+Building"/>
 
 <br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub+Profile;Building+Real+World+Projects;Python+Developer;Data+Science+Explorer;Blockchain+Learner;Always+Learning+New+Technologies"/>
-
-<br><br>
-
-## 🌐 Explore My Portfolio
 
 <a href="https://s-samarthbhatt-b.github.io/Samarth-Bhatt-Portfolio/">
-
-<img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/>
 </a>
 
 <br><br>
 
-<p align="center">
+<a href="https://github.com/S-SamarthBhatt-B"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
+<a href="https://linkedin.com/in/samarth-bhatt29"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
+<a href="mailto:samarthbhatt029@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/></a>
 
-<a href="https://github.com/S-SamarthBhatt-B">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-</a>
+<br><br>
 
-<a href="https://linkedin.com/in/samarth-bhatt29">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a>
-
-<a href="mailto:samarthbhatt029@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=S-SamarthBhatt-B&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=S-SamarthBhatt-B&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge"/>
 
 </div>
-
----
-
-<div align="center">
-
-# 💠 Developer Dashboard
-
-| 🏠 Home | 👨‍💻 About | 🚀 Projects | 📊 Analytics | 📬 Contact |
-|:-------:|:---------:|:----------:|:-----------:|:----------:|
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# 👋 Hello, I'm Samarth Bhatt
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║  Passionate Python Developer focused on building modern software.    ║
-║                                                                      ║
-║  • Data Science & Analytics                                          ║
-║  • Blockchain Technology                                             ║
-║  • Interactive Web Applications                                      ║
-║  • AI & Automation                                                   ║
-║                                                                      ║
-║  "Building meaningful software through continuous learning."         ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-# ⚡ System Status
-
-```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Name        : Samarth Bhatt
-
-Role        : Python Developer
-
-Education   : B.Tech Computer Science & Blockchain
-
-Location    : India 🇮🇳
-
-Current     : Building Projects & Exploring AI
-
-Interests   : Python • Data Science • Blockchain • Web Development
-
-Mission     : Build software that solves real-world problems.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# 💡 Philosophy
-
-> **"Technology is not just about writing code. It's about creating solutions that make an impact."**
 
 <br>
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile. Scroll down to explore my work.
+|&nbsp;[🏠 Home](#home)&nbsp;|&nbsp;[👨‍💻 About](#about)&nbsp;|&nbsp;[⚡ Tech Stack](#tech-stack)&nbsp;|&nbsp;[🚀 Projects](#projects)&nbsp;|&nbsp;[📊 Analytics](#analytics)&nbsp;|&nbsp;[📬 Contact](#contact)&nbsp;|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:38BDF8,100:020617"/>
+<a name="home"></a>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> About Me
+<div align="center">
 
-<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+## 👋 Hi, I'm Samarth Bhatt
 
-I'm a **Computer Science & Blockchain undergraduate** passionate about building software that solves real-world problems.
+</div>
 
-I enjoy turning ideas into applications through clean code, modern technologies, and continuous learning.
+```yaml
+Role        : Python Developer & Data Science Enthusiast
+Education   : B.Tech Computer Science & Engineering (Blockchain), CGC University Mohali
+Batch       : 2024 - 2028
+Location    : India 🇮🇳
+Focus       : Data Science • Blockchain • Interactive Web Applications
+Mission     : Build software that solves real-world problems.
+```
 
-### 💙 Interests
+<div align="center">
+
+> *"Technology is not just about writing code. It's about creating solutions that make an impact."*
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+<a name="about"></a>
+
+<div align="center">
+
+## 👨‍💻 About Me
+
+</div>
+
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+I'm a **Computer Science & Engineering (Blockchain)** undergraduate at **CGC University Mohali**, passionate about building software that solves real-world problems.
+
+I enjoy turning ideas into applications through clean code, modern technologies, and continuous learning — with a growing focus on **data science** and how software systems work under the hood.
+
+**💙 Interests**
 
 - 🐍 Python Development
 - 📊 Data Science & Analytics
 - 🌐 Web Development
-- ⛓ Blockchain Technology
+- ⛓️ Blockchain Technology
 - 🤖 Artificial Intelligence
-- 🚀 Open Source
+- 🎮 Building & running my own Minecraft server ecosystem
 
 <br clear="right"/>
 
----
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# 💻 Terminal Profile
-
 ```bash
 samarth@github:~$ whoami
-
 Name        :: Samarth Bhatt
-
 Role        :: Python Developer
-
-Education   :: B.Tech Computer Science & Blockchain
-
+Education   :: B.Tech CSE (Blockchain) — CGC University Mohali
 Location    :: India
-
-Experience  :: Building Projects
-
 Status      :: Learning Every Day
-
 Mission     :: Build software that creates real impact.
+
+samarth@github:~$ current-focus --progress
+Data Science        ██████████████████░░░░  80%
+Python               ███████████████░░░░░░░  85%
+React                ██████████████░░░░░░░░  70%
+Blockchain           ████████████░░░░░░░░░░  60%
+Machine Learning     ████████░░░░░░░░░░░░░░  45%
 ```
 
-```bash
-samarth@github:~$ skills --list
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-✓ Python
-
-✓ Java
-
-✓ C++
-
-✓ JavaScript
-
-✓ React
-
-✓ Data Science
-
-✓ Blockchain
-
-✓ Git & GitHub
-```
-
-```bash
-samarth@github:~$ current-focus
-
-Loading...
-
-██████████████████░░░░  Data Science
-
-███████████████░░░░░░░  Python
-
-██████████████░░░░░░░░  React
-
-████████████░░░░░░░░░░ Blockchain
-
-████████░░░░░░░░░░░░░░ Machine Learning
-```
-
----
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# ⚡ Tech Stack
+<a name="tech-stack"></a>
 
 <div align="center">
 
-## Languages
+## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
+<br>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css"/>
+
+<br><br>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
 
 <br><br>
 
-## Frameworks & Libraries
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs"/>
+<img src="https://skillicons.dev/icons?i=nodejs,sqlite"/>
 
 <br><br>
+
+**Data Science**
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy"/>
+<img src="https://skillicons.dev/icons?i=powerbi"/>
 
 <br><br>
 
-## Tools
+**Blockchain**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=solidity"/>
+
+<br><br>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows"/>
 
 </div>
 
----
+<br>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# 🧠 Skills Matrix
+<div align="center">
 
 | Category | Technologies |
-|-----------|--------------|
-| 🐍 Languages | Python • Java • C++ • JavaScript |
-| 🌐 Frontend | HTML • CSS • React |
-| 📊 Data Science | Pandas • NumPy • Power BI • Excel |
-| 🗄 Database | SQLite |
-| ⛓ Blockchain | Blockchain • Web3 • Solidity Basics |
-| 🛠 Tools | Git • GitHub • VS Code |
-
----
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# 📚 Currently Learning
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🐍 Advanced Python
-
-📈 Machine Learning
-
-⚛ React Ecosystem
-
-🗃 Backend Development
-
-⛓ Blockchain Development
-
-🤖 Artificial Intelligence
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# 🛠 Development Environment
-
-```yaml
-Editor      : Visual Studio Code
-
-OS          : Windows 11
-
-Version Ctrl: Git & GitHub
-
-Languages   : Python, Java, JavaScript
-
-Database    : SQLite
-
-Browser     : Microsoft Edge
-
-Learning    : Never Stops
-```
-
----
-
-<div align="center">
-
-### 💡 "Every project begins with an idea. Every great project begins with persistence."
+|:--|:--|
+| 🐍 **Languages** | Python • Java • C++ • JavaScript • TypeScript |
+| 🌐 **Frontend** | HTML • CSS • React • Tailwind CSS • Vite |
+| 🗄️ **Backend / Data** | Node.js • SQLite |
+| 📊 **Data Science** | Pandas • NumPy • Power BI • Excel (incl. VBA / Power Query) |
+| ⛓️ **Blockchain** | Blockchain Fundamentals • Web3 • Solidity Basics |
+| 🛠️ **Tools** | Git • GitHub • VS Code • Linux |
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-# 🚀 Featured Projects
+<a name="projects"></a>
 
 <div align="center">
 
-### Building solutions with code, creativity, and continuous learning.
+## 🚀 Featured Projects
+
+*Building solutions with code, creativity, and continuous learning.*
 
 </div>
 
----
+<br>
 
-## 📊 DataCanvas
+### 📊 DataCanvas
+**An Intelligent Data Analytics Platform**
 
-> **An Intelligent Data Analytics Platform**
+<img align="right" width="180" src="https://img.shields.io/badge/Status-Active-1F6FEB?style=for-the-badge"/>
 
-<img align="right" width="280" src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+A web-based platform that simplifies data analysis for everyone — upload a dataset and generate professional dashboards with automatic preprocessing, visualization, and insights.
 
-DataCanvas is a web-based platform that simplifies data analysis for everyone. Upload your dataset and generate professional dashboards with automatic preprocessing, visualization, and insights.
+**Features**
+`CSV / Excel Upload` `Automatic Data Cleaning` `Interactive Dashboard` `Smart Visualizations` `Report Generation` `Dashboard Saving`
 
-### ✨ Features
+**Tech Stack:** `Python` `React` `TypeScript` `Chart.js`
 
-- 📂 CSV / Excel Upload
-- 🧹 Automatic Data Cleaning
-- 📊 Interactive Dashboard
-- 📈 Smart Visualizations
-- 📑 Report Generation
-- 💾 Dashboard Saving
-
-### 🛠 Tech Stack
-
-`Python` `React` `TypeScript` `Chart.js`
+<img src="https://img.shields.io/badge/Repository-Coming_Soon-161B22?style=for-the-badge&logo=github&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-161B22?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
 
 <br>
 
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_DEMO_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=googlechrome"/>
-</a>
-
 ---
 
-## 🌌 CosmosDesk
+### 🌌 CosmosDesk
+**Interactive 3D Desktop Experience**
 
-> **Interactive 3D Desktop Experience**
+<img align="right" width="180" src="https://img.shields.io/badge/Status-Completed-2563EB?style=for-the-badge"/>
 
-<img align="right" width="280" src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge"/>
+A modern Three.js powered desktop experience featuring animated particles, gesture interaction, dynamic backgrounds, and an immersive UI.
 
-A modern Three.js powered desktop experience featuring animated particles, gesture interaction, dynamic backgrounds, and immersive UI.
+**Features**
+`Particle Effects` `Hand Tracking` `Music Reactive Mode` `Desktop Interface` `Dynamic Themes`
 
-### ✨ Features
+**Tech Stack:** `JavaScript` `Three.js` `HTML` `CSS`
 
-- 🌠 Particle Effects
-- ✋ Hand Tracking
-- 🎵 Music Reactive Mode
-- 🖥 Desktop Interface
-- 🎨 Dynamic Themes
-
-### 🛠 Tech Stack
-
-`JavaScript` `Three.js` `HTML` `CSS`
+<a href="https://github.com/S-SamarthBhatt-B/CosmosDesk"><img src="https://img.shields.io/badge/View_Code-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
+<a href="https://s-samarthbhatt-b.github.io/CosmosDesk/"><img src="https://img.shields.io/badge/Live_Demo-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 <br>
 
-<a href="https://github.com/S-SamarthBhatt-B/CosmosDesk">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
-</a>
+---
 
-<a href="https://s-samarthbhatt-b.github.io/CosmosDesk/">
-<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=googlechrome"/>
-</a>
+### 🤖 SurAI
+**Next-Generation AI Assistant**
+
+<img align="right" width="180" src="https://img.shields.io/badge/Status-In_Development-38BDF8?style=for-the-badge"/>
+
+An AI-powered productivity platform focused on modern user experience, intelligent workflows, long-term memory, and future-ready automation.
+
+**Planned Features**
+`Long-Term Memory` `Natural Conversations` `Productivity Tools` `Internet Access` `Modern Interface`
+
+**Tech Stack:** `React` `TypeScript` `Node.js`
+
+<img src="https://img.shields.io/badge/Repository-In_Progress-161B22?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+
+<br>
 
 ---
 
-## 🤖 SurAI
+### ⚔️ Surventure — Lifesteal SMP
+**Minecraft Server & Custom Plugin Ecosystem**
 
-> **Next Generation AI Assistant**
+<img align="right" width="180" src="https://img.shields.io/badge/Status-Active-1F6FEB?style=for-the-badge"/>
 
-<img align="right" width="280" src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge"/>
+A complete Minecraft ecosystem (`play.surventure.in`) featuring custom gameplay, plugin configuration, server management, an economy system, and community-driven features — Season 1 of the Lifesteal SMP.
 
-SurAI is an AI-powered productivity platform focused on modern user experience, intelligent workflows, memory, and future-ready automation.
+**Features**
+`Custom Plugins` `Economy System (/coinshop)` `Rewards & Kits GUI` `Multiplayer` `Server Management`
 
-### Planned Features
+**Tech Stack:** `Java` `Paper API` `Skript` `SQLite`
 
-- 🧠 Long-Term Memory
-- 💬 Natural Conversations
-- ⚡ Productivity Tools
-- 🌐 Internet Access
-- 🎨 Modern Interface
+<img src="https://img.shields.io/badge/Server-play.surventure.in-161B22?style=for-the-badge&logo=minecraft&logoColor=38BDF8"/>
 
-### Tech Stack
-
-`React` `TypeScript` `Node.js`
+<br>
 
 ---
 
-## ⚔️ Surventure
-
-> **Minecraft Server & Custom Plugin Ecosystem**
-
-<img align="right" width="280" src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-
-A complete Minecraft ecosystem featuring custom gameplay, plugin development, server management, economy, and community-driven features.
-
-### Features
-
-- ⚡ Custom Plugins
-- 💰 Economy System
-- 🎁 Rewards
-- 🌍 Multiplayer
-- 🛡 Server Management
-
-### Tech Stack
-
-`Java` `Paper API` `SQLite`
-
----
-
-## 🏏 IPL Cricket Analysis
-
-> **Data Analysis Project**
+### 🏏 IPL Cricket Analysis
+**Data Analysis Project**
 
 Python-based exploratory data analysis of IPL datasets using visualization and statistical techniques.
 
-### Highlights
+**Highlights**
+`Trend Analysis` `Visual Reports` `Team Performance` `Player Statistics`
 
-- 📈 Trend Analysis
-- 📊 Visual Reports
-- 📉 Team Performance
-- 🏆 Player Statistics
+**Tech Stack:** `Python` `Pandas` `Matplotlib`
 
-### Tech
-
-`Python` `Pandas` `Matplotlib`
+<br>
 
 ---
 
-## 🧠 Mental Health in Tech
+### 🧠 Mental Health in Tech
+**Exploratory Data Analysis**
 
-> **Exploratory Data Analysis**
+An analytical project exploring workplace mental health (OSMI dataset) using data cleaning, visualization, and a full BI dashboard build.
 
-An analytical project focused on understanding workplace mental health using data cleaning, visualization, and dashboard creation.
+**Highlights**
+`EDA` `Data Cleaning` `Visualization` `Power BI Dashboard`
 
-### Highlights
+**Tech Stack:** `Python` `Excel` `Power BI`
 
-- 📊 EDA
-- 🧹 Data Cleaning
-- 📈 Visualization
-- 📑 Dashboard
-
-### Tech
-
-`Python`
-
-`Excel`
-
-`Power BI`
-
----
+<br>
 
 <div align="center">
 
-## 📌 More Projects
-
-⭐ Visit my repositories to explore additional open-source projects and experiments.
+⭐ *Visit my repositories to explore additional open-source projects and experiments.*
 
 <a href="https://github.com/S-SamarthBhatt-B?tab=repositories">
-
-<img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# 📊 GitHub Analytics
+<a name="analytics"></a>
 
 <div align="center">
 
-### A quick overview of my development journey.
+## 📊 GitHub Analytics
 
-</div>
+*A quick overview of my development journey.*
 
 <br>
 
-<div align="center">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=S-SamarthBhatt-B&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=38BDF8&icon_color=1F6FEB&text_color=FFFFFF&bg_color=0D1117"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-SamarthBhatt-B&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=38BDF8&text_color=FFFFFF&bg_color=0D1117"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=S-SamarthBhatt-B&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<br><br>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-SamarthBhatt-B&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=S-SamarthBhatt-B&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F6FEB&ring=38BDF8&fire=38BDF8"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img width="80%" src="https://streak-stats.demolab.com?user=S-SamarthBhatt-B&theme=github-dark-blue&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=S-SamarthBhatt-B&theme=github-compact&hide_border=true&bg_color=0D1117&color=38BDF8&line=1F6FEB&point=FFFFFF"/>
 
 </div>
 
-<br>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=S-SamarthBhatt-B&theme=github-dark&hide_border=true&radius=16"/>
+## 🎯 2026 Roadmap
 
 </div>
-
----
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# 💻 Development Summary
-
-<div align="center">
-
-| Focus Area | Progress |
-|:-----------|:--------:|
-| 🐍 Python | ████████████ 90% |
-| 📊 Data Science | ██████████░░ 80% |
-| 🌐 Web Development | █████████░░░ 75% |
-| ⛓ Blockchain | ███████░░░░░ 65% |
-| 🤖 AI & Machine Learning | ██████░░░░░░ 60% |
-
-</div>
-
----
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# 🎯 2026 Roadmap
 
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✅ Build DataCanvas
-
-███████████████████████████████░░░ 95%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🚀 Build SurAI
-
-██████████████░░░░░░░░░░░░░░░░░░░░ 45%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📚 Master Machine Learning
-
-██████████░░░░░░░░░░░░░░░░░░░░░░░░ 35%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-⚛ Learn Backend Development
-
-████████████░░░░░░░░░░░░░░░░░░░░░░ 40%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🌍 Contribute to Open Source
-
-███████░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ Build DataCanvas                 ███████████████████████████████░░░  95%
+🚀 Build SurAI                      ██████████████░░░░░░░░░░░░░░░░░░░░  45%
+🖥️ Ship SamarthOS Portfolio         █████████████████████░░░░░░░░░░░░░  60%
+📚 Master Machine Learning          ██████████░░░░░░░░░░░░░░░░░░░░░░░░  35%
+⚛️ Learn Backend Development         ████████████░░░░░░░░░░░░░░░░░░░░░░  40%
+🌍 Contribute to Open Source        ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%
 ```
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# 📚 Current Learning
+<a name="contact"></a>
 
 <div align="center">
 
-| 🌱 Learning | 📌 Status |
-|--------------|-----------|
-| Advanced Python | 🔄 In Progress |
-| Machine Learning | 🔄 In Progress |
-| React Ecosystem | 🔄 In Progress |
-| Backend Development | 🔄 In Progress |
-| Blockchain Development | 🔄 In Progress |
+## 📬 Let's Connect
 
-</div>
-
----
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# 💡 Developer Mindset
-
-<div align="center">
-
-> **"The best way to predict the future is to build it."**
-
-*Every repository is another step toward becoming a better engineer.*
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-### I'm always open to collaborating on interesting projects and learning new technologies.
+I'm always open to collaborating on interesting projects and learning new technologies.
 
 <br>
 
-<a href="mailto:samarthbhatt029@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:samarthbhatt029@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/samarth-bhatt29"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/S-SamarthBhatt-B"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://s-samarthbhatt-b.github.io/Samarth-Bhatt-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
-<a href="https://linkedin.com/in/samarth-bhatt29">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="https://github.com/S-SamarthBhatt-B">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://s-samarthbhatt-b.github.io/Samarth-Bhatt-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+| 💼 Open To | ✅ Status |
+|:--|:--:|
+| Open Source Contributions | Available |
+| Python Projects | Available |
+| Data Science Projects | Available |
+| React Projects | Available |
+| Blockchain Projects | Available |
+| Learning & Collaboration | Always |
 
 </div>
 
----
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# 🤝 Open To
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 <div align="center">
 
-| 💼 Opportunity | ✅ Status |
-|:--------------|:---------:|
-| Open Source Contributions | ✔ Available |
-| Python Projects | ✔ Available |
-| Data Science Projects | ✔ Available |
-| React Projects | ✔ Available |
-| Blockchain Projects | ✔ Available |
-| Learning & Collaboration | ✔ Always |
-
-</div>
-
----
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# ⚡ Fun Facts
-
-```yaml
-Coffee Consumed      : ☕ Infinite
-
-Favourite Language   : Python 🐍
-
-Current Goal         : Build SurAI
-
-Dream               : Create software used worldwide
-
-Always Learning      : True
-
-Bug Fixing Mode      : ON
-```
-
----
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# 💬 Favorite Quote
-
-<div align="center">
-
-## "Code is not just written. It is designed, refined, tested, and continuously improved."
-
-</div>
-
----
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-# ⭐ Support My Work
-
-<div align="center">
-
-If you enjoy my projects, consider:
-
-⭐ Starring my repositories
-
-🍴 Forking projects
-
-🛠 Contributing
-
-💬 Sharing feedback
-
-🤝 Connecting with me
-
-</div>
+### 💬 "Code is not just written. It is designed, refined, tested, and continuously improved."
 
 <br>
 
-<div align="center">
-
-<a href="https://github.com/S-SamarthBhatt-B?tab=repositories">
-
-<img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## Thanks for Visiting 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting!;Happy+Coding!;Let's+Build+Something+Amazing!"/>
+⭐ Star my repos&nbsp;&nbsp;•&nbsp;&nbsp;🍴 Fork a project&nbsp;&nbsp;•&nbsp;&nbsp;🛠️ Contribute&nbsp;&nbsp;•&nbsp;&nbsp;💬 Share feedback
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:38BDF8,30:2563EB,70:0F172A,100:020617"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting!;Happy+Coding!;Let's+Build+Something+Amazing!"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:38BDF8,30:1F6FEB,70:161B22,100:0D1117"/>
 
 </div>
