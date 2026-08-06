@@ -1,146 +1,139 @@
 <div align="center">
 
-# 👋 Hi, I'm Samarth Bhatt
+# Samarth Bhatt
 
-### Python Developer • Data Science Enthusiast • Blockchain Student
+### Python Developer • Data Science • Blockchain • Web Development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Projects.;Learning+Every+Day.;Python+%7C+Data+Science+%7C+Blockchain.;Welcome+to+my+GitHub!" />
+<p>
+Building practical software, exploring data, and continuously learning modern technologies.
+</p>
+
+<p>
+<a href="https://github.com/S-SamarthBhatt-B">
+<img src="https://img.shields.io/github/followers/S-SamarthBhatt-B?style=for-the-badge&logo=github">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=S-SamarthBhatt-B&style=for-the-badge&color=0e75b6">
+
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# About Me
 
-🎓 B.Tech Computer Science & Blockchain Student
+I'm a Computer Science & Blockchain undergraduate passionate about solving real-world problems with software.
 
-💻 Passionate about building real-world software using Python and modern technologies.
+My primary interests include:
 
-📊 Interested in Data Science, Machine Learning, Automation, and Blockchain.
-
-🌱 Currently improving my skills in
-
-- Python
-- Data Science
-- Blockchain
+- Python Development
+- Data Science & Analytics
+- Blockchain Technology
 - Web Development
 
-🚀 Goal
-
-> Build projects that solve real-world problems while continuously learning new technologies.
+I enjoy transforming ideas into projects that are practical, scalable, and user-focused.
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
+
 </p>
 
-### Data Science
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### Blockchain
+### Frameworks & Libraries
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs"/>
 
-<img src="https://img.shields.io/badge/Web3-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy"/>
 
 </p>
 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
 </p>
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
 ## 📊 DataCanvas
 
-A web-based data science platform that automatically:
-
-- Cleans datasets
-- Generates visualizations
-- Performs preprocessing
-- Builds interactive dashboards
-
-**Tech**
-
-Python • React • TypeScript • Chart.js
-
----
-
-## 🧠 Mental Health in Tech Analysis
+A web-based data analytics platform that automates:
 
 - Data Cleaning
 - Exploratory Data Analysis
-- Excel Dashboard
-- Python Visualizations
+- Dashboard Creation
+- Interactive Visualizations
+
+---
+
+## 🌌 CosmosDesk
+
+An immersive desktop experience powered by Three.js featuring particle systems, gesture interaction, and dynamic animations.
+
+---
+
+## 🤖 SurAI *(In Development)*
+
+Building an AI assistant focused on intelligent workflows, modern UI, and productivity.
 
 ---
 
 ## 🏏 IPL Cricket Analysis
 
-- Data Visualization
-- Trend Analysis
-- Statistical Insights
+Python-based exploratory analysis with statistical insights and visual dashboards.
 
 ---
 
-## 🗳 US Elections Data Analysis
-
-- Data Cleaning
-- Exploratory Analysis
-- Interactive Charts
-
----
-
-# 📈 GitHub Statistics
+# GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=S-SamarthBhatt-B&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=S-SamarthBhatt-B&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-SamarthBhatt-B&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-SamarthBhatt-B&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="90%" src="https://streak-stats.demolab.com?user=S-SamarthBhatt-B&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=S-SamarthBhatt-B&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+# Current Focus
 
-- Machine Learning
-- Deep Learning
-- Advanced Python
-- Blockchain Development
-- React Ecosystem
+- Building **SurAI**
+- Enhancing **DataCanvas**
+- Learning Machine Learning
+- Strengthening Backend Development
+- Exploring Advanced Blockchain Concepts
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:samarthbhatt029@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -154,14 +147,12 @@ Python • React • TypeScript • Chart.js
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
+*"Building software with curiosity, consistency, and continuous improvement."*
 
 </div>
