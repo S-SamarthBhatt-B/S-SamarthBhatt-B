@@ -189,7 +189,7 @@ DataCanvas is a web-based platform that simplifies data analysis for everyone â€
 **ðŸ›  Tech Stack** &nbsp; `Python` `React` `TypeScript` `Chart.js`
 
 <a href="YOUR_REPOSITORY_LINK"><img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
-<a href="YOUR_DEMO_LINK"><img src="https://img.shields.io/badge/Live_Demo-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://data-canvas-azure.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </td>
 </tr>
